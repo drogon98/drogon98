@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drogon98&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-I know my stuff.
-
 I have fallen in love with frontend development of late.
 
-Am glad to assist you with anything within the React ecosystem.🤞 
+Ask me about anything within the React ecosystem.🤞 
 
 I speak your tech:
 

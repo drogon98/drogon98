@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drogon98&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 - 🔭 I’m currently working on mobility applications
-- 💬 Ask me about Reactjs & Nextjs
+- 🌱 I’m currently learning editing markdown files
+- 💬 Ask me about Reactjs
 - 📫 How to reach me: h21948298@gmail.com
 
 <!--START_SECTION:waka-->

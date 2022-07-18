@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Harrison, I build stuff 
+###### I am *Harrison*, I build stuff 
 
 <!--
 **drogon98/drogon98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

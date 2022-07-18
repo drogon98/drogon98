@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drogon98&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 - 🔭 I’m currently working on mobility applications
-- 🌱 I’m currently learning how to work with markdown files
+- 🌱 I’m currently learning how to work with redis
 - 💬 Ask me about Reactjs
 - 📫 How to reach me: h21948298@gmail.com
 

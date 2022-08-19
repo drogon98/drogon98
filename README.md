@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on mobility applications
 - 🌱 I’m currently learning Deep Learning & Neural Networks
-<!-- - 💬 Ask me about Reactjs -->
 - 📫 How to reach me: h21948298@gmail.com
 
 <!--START_SECTION:waka-->

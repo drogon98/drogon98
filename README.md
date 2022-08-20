@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on mobility applications
 - 🌱 I’m currently learning Deep Learning & Neural Networks
 - 📫 How to reach me: h21948298@gmail.com
+- ⚡ Fun fact: I like being rained on
 
 <!--START_SECTION:waka-->
 

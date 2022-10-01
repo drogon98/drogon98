@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-<--```text
+```text
 From: 30 August 2022 - To: 29 September 2022
 
 Total Time: 143 hrs 22 mins
@@ -64,7 +64,7 @@ JavaScript   3 hrs 56 mins   ▓░░░░░░░░░░░░░░░░
 CSS          1 hr 32 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 Text         1 hr 7 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 Bash         17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-```-->
+```
 
 <!--END_SECTION:waka-->
 

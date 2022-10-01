@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drogon98&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
+
 
 - 🔭 I’m currently working on mobility applications
 - 🌱 I’m learning Deep Learning & Neural Networks
@@ -40,3 +40,5 @@ Bash         17 mins         ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drogon98&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

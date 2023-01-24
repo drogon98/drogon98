@@ -54,12 +54,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 December 2022 - To: 21 January 2023
+From: 23 December 2022 - To: 22 January 2023
 
-Total Time: 115 hrs 23 mins
+Total Time: 114 hrs 48 mins
 
-TypeScript   107 hrs 26 mins ██████████████████▓░░░░░░   75.16 %
-Other        27 hrs 33 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
+TypeScript   106 hrs 52 mins ██████████████████▓░░░░░░   75.07 %
+Other        27 hrs 33 mins  █████░░░░░░░░░░░░░░░░░░░░   19.36 %
 ```
 
 <!--END_SECTION:waka-->

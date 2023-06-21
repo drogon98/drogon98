@@ -54,15 +54,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 May 2023 - To: 18 June 2023
+From: 20 May 2023 - To: 19 June 2023
 
-Total Time: 149 hrs 3 mins
+Total Time: 150 hrs 18 mins
 
-TypeScript      144 hrs 5 mins  ████████████████████████░   96.47 %
-CSS             2 hrs 17 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-PHP             51 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-JSON            41 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-JavaScript      35 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+TypeScript      145 hrs 39 mins ████████████████████████▒   96.82 %
+CSS             2 hrs 17 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+PHP             51 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+JavaScript      29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JSON            28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->

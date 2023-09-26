@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2023 - To: 23 September 2023
+From: 25 August 2023 - To: 24 September 2023
 
-Total Time: 119 hrs 28 mins
+Total Time: 119 hrs 27 mins
 
 TypeScript   107 hrs 2 mins  ██████████████████████▒░░   89.59 %
 JSON         5 hrs 51 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %

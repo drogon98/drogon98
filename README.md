@@ -54,15 +54,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2024 - To: 19 May 2024
+From: 20 April 2024 - To: 20 May 2024
 
-Total Time: 68 hrs 21 mins
+Total Time: 65 hrs 22 mins
 
-TypeScript   58 hrs 44 mins  █████████████████████▒░░░   85.90 %
-JavaScript   4 hrs 43 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
-Bash         1 hr 24 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-CSS          1 hr 9 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-JSON         1 hr 6 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+TypeScript   60 hrs 47 mins  ███████████████████████▒░   92.94 %
+Bash         1 hr 27 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+JavaScript   55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+CSS          45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+JSON         41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->

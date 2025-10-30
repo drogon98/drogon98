@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drogon98&show_icons=true&locale=en" alt="drogon98" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drogon98&" alt="drogon98" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drogon98&" alt="drogon98" /></p> -->
 
 <!--END_SECTION:waka-->
 

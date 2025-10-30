@@ -50,17 +50,6 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drogon98&" alt="drogon98" /></p>
 
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 28 September 2025 - To: 28 October 2025
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 
